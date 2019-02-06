@@ -10,5 +10,7 @@ public class Main {
         System.out.println(point_a);
         System.out.println(point_a.x + "," + point_a.y);
         point_a.showPointCoordinates();
+
+        //comment check at work
     }
 }
